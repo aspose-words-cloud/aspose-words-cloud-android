@@ -38,6 +38,24 @@ Check out the [Developer's Guide](https://docs.aspose.cloud/display/wordscloud/D
 **Images:** JPEG, PNG, BMP, SVG, TIFF, EMF
 **Others:** PCL
 
+## Enhancements in Version 21.1
+
+- Added the typed `NodePath` builder.
+- Added online version for all API methods.
+- During the conversion process the invisible text from `PDF` will be skipped now.
+- Improved the font style recognition for the Hebrew language pages.
+
+
+## Enhancements in Version 20.11
+- In configuration json file appSid / appKey has been replaced to clientId / clientSecret.
+- In Words API initialization methods clientId parameter precedes clientSecret parameter.
+
+## Enhancements in Version 20.10
+- Internal API changes.
+
+## Enhancements in Version 20.9
+- Added Batch API feature
+
 
 ### Prerequisites
 
